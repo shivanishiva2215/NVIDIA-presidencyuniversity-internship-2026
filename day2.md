@@ -12,7 +12,8 @@ Analyzed the outputs of the both models.
 Explored the difference between regression and classification techniques.
 
 # # Assignment 
-Received a Machine learning assignment based on the concepts covered during the session.
+completed the assigned task on regression and classfictaion .
+applied the concepts learned during the session .
 
 # # Key learning 
 Learned the basic concepts of machine learning and understood how regression and classification models are used for prediction and data analysis.
