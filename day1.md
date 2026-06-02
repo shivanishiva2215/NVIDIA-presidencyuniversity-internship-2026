@@ -17,3 +17,9 @@ Ran a program in Jupyter.
 # # Key learning 
 Learned the basics of kubernetes, Pod deployment , and how to use Jupyter Notebook in provided environment . 
 
+# # output screenshots 
+![GPU1](gpu1.png)
+![GPU2](gpu2.png)
+![GPU3](gpu3.png)
+![GPU4](gpu4.png)
+![GPU5](gpu5.png)
